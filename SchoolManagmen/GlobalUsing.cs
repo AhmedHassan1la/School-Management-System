@@ -1,0 +1,11 @@
+﻿global using FluentValidation;
+global using Mapster;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Microsoft.Extensions.Options;
+global using SchoolManagmen.Abstractions;
+global using SchoolManagmen.Contracts.Authentication;
+global using SchoolManagmen.Entities;
+global using SchoolManagmen.Errors;
+global using SchoolManagmen.Services;

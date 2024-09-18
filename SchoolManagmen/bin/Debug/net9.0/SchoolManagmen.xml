@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SchoolManagmen</name>
+    </assembly>
+    <members>
+        <member name="M:SchoolManagmen.Controllers.AuthController.LoginAsync(SchoolManagmen.Contracts.Authentication.LoginRequest,System.Threading.CancellationToken)">
+            <summary>
+            Allow users to get jwt tokens
+            </summary>
+            <param name="request"></param>
+            <param name="cancellationToken"></param>
+            <returns> Return jwt token if Creditals were valid </returns>
+        </member>
+        <member name="T:SchoolManagmen.Migrations.CreateTable">
+            <inheritdoc />
+        </member>
+        <member name="M:SchoolManagmen.Migrations.CreateTable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:SchoolManagmen.Migrations.CreateTable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:SchoolManagmen.Migrations.CreateTable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:SchoolManagmen.Migrations.AllTable">
+            <inheritdoc />
+        </member>
+        <member name="M:SchoolManagmen.Migrations.AllTable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:SchoolManagmen.Migrations.AllTable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:SchoolManagmen.Migrations.AllTable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:SchoolManagmen.Migrations.AppRole">
+            <inheritdoc />
+        </member>
+        <member name="M:SchoolManagmen.Migrations.AppRole.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:SchoolManagmen.Migrations.AppRole.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:SchoolManagmen.Migrations.AppRole.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:SchoolManagmen.Migrations.seedidentitytabl">
+            <inheritdoc />
+        </member>
+        <member name="M:SchoolManagmen.Migrations.seedidentitytabl.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:SchoolManagmen.Migrations.seedidentitytabl.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:SchoolManagmen.Migrations.seedidentitytabl.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:SchoolManagmen.Migrations.applicationUserisdisabled">
+            <inheritdoc />
+        </member>
+        <member name="M:SchoolManagmen.Migrations.applicationUserisdisabled.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:SchoolManagmen.Migrations.applicationUserisdisabled.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:SchoolManagmen.Migrations.applicationUserisdisabled.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
