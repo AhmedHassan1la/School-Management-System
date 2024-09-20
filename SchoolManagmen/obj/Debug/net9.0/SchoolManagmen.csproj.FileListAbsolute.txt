@@ -189,3 +189,4 @@ C:\Users\Fc\OneDrive\Desktop\root oop\SchoolManagmen\SchoolManagmen\bin\Debug\ne
 C:\Users\Fc\OneDrive\Desktop\root oop\SchoolManagmen\SchoolManagmen\bin\Debug\net9.0\Asp.Versioning.Mvc.ApiExplorer.dll
 C:\Users\Fc\OneDrive\Desktop\root oop\SchoolManagmen\SchoolManagmen\bin\Debug\net9.0\SchoolManagmen.xml
 C:\Users\Fc\OneDrive\Desktop\root oop\SchoolManagmen\SchoolManagmen\obj\Debug\net9.0\SchoolManagmen.xml
+C:\Users\Fc\OneDrive\Desktop\root oop\SchoolManagmen\SchoolManagmen\obj\Debug\net9.0\SchoolManagmen.sourcelink.json

@@ -76,15 +76,15 @@ namespace SchoolManagmen.Controllers
             var result = await _studentService.DeleteAsync(id, cancellationToken);
             if (!result)
             {
-                return NotFound();  
+                return NotFound();
             }
-            return NoContent(); 
+            return NoContent();
         }
 
         [HttpGet("search")]
         [HasPermission(Permissions.GetStudents)]
 
-        public async Task<IActionResult> Search([FromQuery]string keyword, CancellationToken cancellationToken)
+        public async Task<IActionResult> Search([FromQuery] string keyword, CancellationToken cancellationToken)
         {
             var students = await _studentService.SearchAsync(keyword, cancellationToken);
             return Ok(students);
